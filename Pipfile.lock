@@ -17,7 +17,7 @@
             "version": "==6.7"
         },
         "flask": {
-            "version": "==0.12.2"
+            "version": "==1.0.2"
         },
         "itsdangerous": {
             "version": "==0.24"
@@ -29,7 +29,7 @@
             "version": "==1.0"
         },
         "werkzeug": {
-            "version": "==0.12.2"
+            "version": "==0.14.1"
         }
     },
     "develop": {}
